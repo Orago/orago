@@ -1,12 +1,36 @@
-# 💫About Me :
-It's me again.
+# Hello❕, I'm [Orago](https://orago.me)
+[![Discord Badge](https://img.shields.io/badge/-My%20Website-cb3637?style=flat-square&logo=GoogleEarth&logoColor=white)](https://discord.gg/9cCF293A8Y)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5477f3?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/9cCF293A8Y)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/orago)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/oragocat/)
 
-# 💻Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=orago&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=orago&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orago&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hello I'm Orago, I love doing Orago things.
+
+🌎 Creating online games for everyone to play.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=orago&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Current Projects
+
+> # [![](./assets/meown_banner.png)](https://meown.net)
+> [Website](https://meown.net) | [Discord](https://discord.gg/9cCF293A8Y)
+>
+> Meown is a game of games, where your player can join minigames and
+> keep all of the same clothing and items you've earned and use it in almost any other minigame.
+> The idea was to originally create a MMO platformer building minigame,
+> but I instead created a MMO topdown building minigame first.
+> The goal is to keep making more minigames similar to the experience of what Club Penguin used to be.
+> Parks and worlds are two seperate minigames and the goal is for them to have nearly nothing in common
+> #
+
+> [![](./assets/CWlogo.png)](https://discord.gg/9cCF293A8Y)
+> # Coaster World
+>
+> Hehe roller coaster go wee
+> (Website N/A) | [Discord](https://discord.gg/9cCF293A8Y)
+> #
+---
+# ~ I love silly cats and making silly games
+
+![](./assets/cat-jump.gif)
+![](./assets/meowdunda.gif)
